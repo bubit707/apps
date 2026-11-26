@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "id": "1529088595",
+      "name": "Rewarp",
+      "enabled": true
+    },
+    {
+      "id": "1613539448",
+      "name": "PhotoBitAI",
+      "enabled": true
+    },
+    {
+      "id": "6751297193",
+      "name": "Mozaik Studio",
+      "enabled": true
+    },
+    {
+      "id": "6839301008",
+      "name": "Bifocus",
+      "enabled": true
+    }
+  ]
+}
